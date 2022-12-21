@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "mangaGrabber": {
+      "commandName": "Project",
+      "commandLineArgs": "manga -a BlueLock"
+    }
+  }
+}

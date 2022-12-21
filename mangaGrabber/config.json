@@ -1,0 +1,16 @@
+{
+  "ValidMangaProviders": {
+    "Providers": [
+      {
+        "Name": "BlueLock",
+        "Url": "https://blue-lock.net/",
+        "Folder": "Blue Lock"
+      }
+    ]
+
+  },
+  "AppRoot": {
+    "Root": "D:\\Coding\\Data\\MangaGrabber"
+  }
+
+}
